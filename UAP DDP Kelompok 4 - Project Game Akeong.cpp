@@ -2,7 +2,7 @@
 //         PEMBUATAN GAME
 // 
 //     KELOMPOK 4
-//  1. NAMA : ZIKWAN ISMAIL 
+//  	1. NAMA : ZIKWAN ISMAIL 
 //	   NPM  : 2117051051
 //	
 //	2. NAMA : AMELIA AGUSTINA NAINGGOLAN
@@ -69,8 +69,8 @@ int main (){
 	
 	fungsi ();
 	
-	char Map[20][20] = {"###############",
-               		    "#   ##  #   #!#",
+	char Map[20][20] = 	{"###############",
+               		    	"#   ##  #   #!#",
              			"######    #   #",
                    		"#   #  ########",
                  		"#     ## $#   #",
