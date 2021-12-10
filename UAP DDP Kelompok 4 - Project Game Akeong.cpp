@@ -123,10 +123,10 @@ int main (){
 				case '!' :
                            	{
                             		Level = 1;
-                                } 
+                                	} 
 					break;
 				}
-				}
+			}
 							
                         if (GetAsyncKeyState(VK_DOWN) !=0){
                             int y2 = (y+1);
